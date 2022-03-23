@@ -1,0 +1,39 @@
+header{
+    background-color: #ffd60a;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+h1{
+    padding-top: 5%;
+    font-style: ;
+}
+
+nav{
+    background-color: #ffc300;
+    color: black;
+    box-shadow: 5px 5px 10px #003566;
+}
+.bodyjaune{
+    background-color: #ffd60a;
+
+}
+footer{
+    background-color: #ffd60a;
+}
+:visited{
+    color: black;
+     
+}
+:link{
+    color: black;
+}
+img{
+    height: 0.5%;
+    margin: 2%;
+    padding: 1%;
+
+}
+h2{
+    background-color: #001d3d;
+}
