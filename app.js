@@ -1,4 +1,5 @@
-var myAccordion = $( "#accordionExample" );
-$( "#button-container button" ).on( "click", function( event ) {
-  accordion.show();
-});
+//validation formulaire
+let form = document.querySelector('form');
+form.addEventListener('submit', function(event)
+{    alert("formulaire envoyé");
+})
