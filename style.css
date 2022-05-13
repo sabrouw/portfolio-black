@@ -123,3 +123,12 @@ footer{
     overflow: hidden;
     color: #ffc300;
   }
+  .progress{
+      padding-top: 5%;
+  }
+
+  article{
+      padding: 0;
+      margin: 0;
+
+  }
